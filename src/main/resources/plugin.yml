@@ -1,0 +1,8 @@
+main: me.jesusmx.vouchers.Vouchers
+name: Vouchers
+version: 1.0-STABLE
+authors:
+  - JesusMX
+  - FxMxGRAGFX
+commands:
+  vouchers:
